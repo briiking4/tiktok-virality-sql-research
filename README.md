@@ -22,7 +22,7 @@ This project focuses on uncovering actionable insights on playlists and charts i
 
 Data: 
 
-To collect my data I fetched information from two Spotify playlists: Billboard Hot List by Billboard, and TikTok Hits by TikTok. Both of these playlists are current and updated weekly.
+To collect my data I fetched information from two Spotify's api on two playlists: Billboard Hot List by Billboard, and TikTok Hits by TikTok. Both of these playlists are current and updated weekly.
 Within Spotify's api, I was able to fetch information about the track, its audio features, and the artist. The audio features object contains insight such as the tracks tempo, danceability,
 energy etc. The track and artist information provided insight on their respective popularity through an index created by Spotify through a combination of different factors including number of streams.
 
