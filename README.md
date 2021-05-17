@@ -6,7 +6,7 @@ Project Objective:
 
 As TikTok emerges as one of the biggest influences on music today, small artists have increasingly gained popularity like never before. However, these small to medium
 sized artists are faced with the problem: Why aren't people interested in my music after I have gone viral? How can I utilize TikTok to gain visibility in mainstream music?
-To solve this problem, I am conducting a comprehensive audio and features analysis on what makes a song go viral on TikTok and comparing these songs to Billboard's Hot List. Billboard's Hot Liat
+To solve this problem, I am conducting a comprehensive audio and features analysis on what makes a song go viral on TikTok and comparing these songs to Billboard's Hot List. Billboard's Hot List
 is the industry's standard Top Charts list. This will allow me to gain insight on how an artist can transend beyond TikTok and onto the Charts. 
 
 
