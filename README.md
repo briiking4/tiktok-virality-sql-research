@@ -10,12 +10,6 @@ To solve this problem, I am conducting a comprehensive audio and features analys
 is the industry's standard Top Charts list. This will allow me to gain insight on how an artist can transend beyond TikTok and onto the Charts. 
 
 
-Job Description: https://boards.greenhouse.io/sonymusic/jobs/5123860002 
-
-Sony Music Entertainment is among the largest "Big Three" record companies owning over 20 differnt record labels. As Analytics Manager, Insights & Reporting, 
-you will be a part of the central analytical team that provides data, insights and reporting across all of Sony’s US labels. Your role will be involved with 
-creating and executing the next generation of reports, dashboards, and analytical approaches to assess the performance of our artists, albums and track releases, 
-evaluate sales and marketing campaigns, uncover actionable insights on playlists and charts and understand artist audiences. 
 
 This project focuses on uncovering actionable insights on playlists and charts in order to understand how to leverage the leading platform influencing music today: TikTok. 
 
